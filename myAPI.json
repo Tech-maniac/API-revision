@@ -1,0 +1,17 @@
+[
+    {
+        "firstName" : "John",
+        "lastName" : "Doe",
+        "gender" : "male",
+        "imgURL" : "images/emp1.jpg",
+        "email" : "xyz@gmail.com"
+    },
+    {
+        "firstName" : "Jenny",
+        "lastName" : "Doe",
+        "gender" : "female",
+        "imgURL" : "images/emp2.jpg",
+        "email" : "abc@gmail.com"
+    }
+]
+
